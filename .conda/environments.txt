@@ -1,0 +1,3 @@
+C:\Users\ELASVIN\AppData\Local\Continuum\anaconda3
+C:\Users\ELASVIN\AppData\Local\Continuum\anaconda3\envs\GensimNlp
+C:\Users\ELASVIN\AppData\Local\Continuum\anaconda3\envs\gensimNlp2.7
